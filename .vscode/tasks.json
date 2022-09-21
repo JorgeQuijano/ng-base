@@ -8,6 +8,12 @@
       "isBackground": true,
       "problemMatcher": {
         "owner": "typescript",
+        "source": "ts",
+        "applyTo": "closedDocuments",
+        "fileLocation": [
+          "relative",
+          "${cwd}"
+        ],
         "pattern": "$tsc",
         "background": {
           "activeOnStart": true,
