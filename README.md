@@ -1,6 +1,8 @@
-# Ng3
+# ng-base
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+
+It was created to speed up the developing process of a any new Angular application. It comes pre installed with Angular Material and it already has a NavBar with Dark Mode toggle.
 
 ## Development server
 
